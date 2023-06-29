@@ -20,4 +20,11 @@ h1 {
     font-weight: 900;
     font-size: 20px;
     font-family: 'Courier New';
+    text-shadow: 1px 1px 2px green;
+}
+
+.p4 {
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
 }
